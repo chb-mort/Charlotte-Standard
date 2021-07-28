@@ -1,12 +1,13 @@
 # Charlotte-Standard
 _Templates, Modellierungsrichtlinien und Pflichtenheft zur Bestandsdigitalisierung der Charlotte_
 
-#### Downloads
+-------
+#### Aktuelle Version:
+_Der Charlotte-Standard wird laufend aktualisiert. Die aktuelle Version finden Sie in der Versionsübersicht:_
 
 [Zur Versionsübersicht und den Downloads](https://github.com/chb-mort/Charlotte-Standard/releases/latest)
 
-
-Der Charlotte-Standard wird laufend aktualisiert und umfasst:
+------
 
 ### Das Archicad Template:
 
