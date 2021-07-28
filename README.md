@@ -5,7 +5,7 @@ _Templates, Modellierungsrichtlinien und Pflichtenheft zur Bestandsdigitalisieru
 #### Aktuelle Version:
 _Der Charlotte-Standard wird laufend aktualisiert. Die aktuelle Version finden Sie in der Versionsübersicht:_
 
-[Zur Versionsübersicht und den Downloads](https://github.com/chb-mort/Charlotte-Standard/releases/latest)
+[**Zur Versionsübersicht und den Downloads**](https://github.com/chb-mort/Charlotte-Standard/releases/latest)
 
 ------
 
