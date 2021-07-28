@@ -1,9 +1,9 @@
 # Charlotte-Standard
 _Templates, Modellierungsrichtlinien und Pflichtenheft zur Bestandsdigitalisierung der Charlotte_
 
-#### Download
+#### Downloads
 
-[Download Version 1.0](https://github.com/chb-mort/Charlotte-Standard/releases/latest)
+[Zur Versionsüberischt und den Downloads](https://github.com/chb-mort/Charlotte-Standard/releases/latest)
 
 
 Der Charlotte-Standard wird laufend aktualisiert und umfasst:
