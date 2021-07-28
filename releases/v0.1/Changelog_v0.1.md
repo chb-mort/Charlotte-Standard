@@ -1,6 +1,6 @@
 Erstes Arbeitsrelease
 
-Release - v0.1 :
+Release - v0.1a :
 ### Erste Veröffentlichung des Charlotte-Standard
 
 
