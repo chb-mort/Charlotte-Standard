@@ -24,4 +24,4 @@ Zu finden sind die Richtlinien unter: https://openbim.graphisoft.de/open-bim-fun
 ### Checklisten
 
 Die Checklisten dienen der Vorabnahme durch den AN vor Übersendung an die Charlotte
-Die aktuellen Checklisten sind jeweils Teil eines jeden Release
+Die aktuellen **Checklisten sind jeweils Teil eines jeden Release und sind in den Modellierungsanforderungen im Anhang zu finden.**
